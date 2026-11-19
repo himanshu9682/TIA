@@ -518,10 +518,11 @@
                     <div class="d-flex align-items-center gap-3">
                         <img loading="lazy" src="https://uniconvergetech.in/_next/image?url=%2Fheader%2Flogo.webp&amp;w=256&amp;q=75"
                             alt="UniConverge Technologies" class="img-fluid" style="width:120px;height:80px;object-fit:contain;">
-                        <h5 class="m-0 fs-5">UniConverge Technologies</h5>
+                        <h5 class="m-0 fs-5">UCT</h5>
                     </div>
                     <div class="mt-3">
-                        <p class="m-0 desc">Technology Solutions</p>
+                        <p class="m-0 entity-tagline">ONE ECOSYSTEM.</p>
+                        <p class="m-0 desc">Converging Technologies. Creating Possibilities.</p>
                     </div>
                     <div class="entity-badge">
                         <span>Parent Company</span>
@@ -534,10 +535,11 @@
                     <div class="d-flex align-items-center gap-3">
                         <img loading="lazy" src="https://www.upskillcampus.com/assets/dit/img/logo.svg"
                             alt="upSkill Campus" class="img-fluid" style="width:120px;height:80px;object-fit:contain;">
-                        <h5 class="m-0 fs-5">upSkill Campus</h5>
+                        <h5 class="m-0 fs-5">UPSKILL CAMPUS</h5>
                     </div>
                     <div class="mt-3">
-                        <p class="m-0 desc">Online Learning Platform</p>
+                        <p class="m-0 entity-tagline">Learn, Intern, Innovate.</p>
+                        <p class="m-0 desc">Your one stop internship solution at No / Affordable cost</p>
                     </div>
                 </div>
             </a>
@@ -547,10 +549,11 @@
                     <div class="d-flex align-items-center gap-3">
                         <img loading="lazy" src="https://www.uctconsulting.com/dist/assets/images/header_logo.png"
                             alt="UCT Consulting" class="img-fluid" style="width:120px;height:80px;object-fit:contain;">
-                        <h5 class="m-0 fs-5">UCT Consulting</h5>
+                        <h5 class="m-0 fs-5">UCT CONSULTING</h5>
                     </div>
                     <div class="mt-3">
-                        <p class="m-0 desc">Technology Consulting</p>
+                        <p class="m-0 entity-tagline">Transforming Challenges. Enabling Growth.</p>
+                        <p class="m-0 desc">Technology &amp; Consulting Solutions for Businesses.</p>
                     </div>
                 </div>
             </a>
@@ -560,10 +563,11 @@
                     <div class="d-flex align-items-center gap-3">
                         <img loading="lazy" src="https://uctrobotics.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuctrobotics.2qko4k777280n.png&amp;w=2048&amp;q=75"
                             alt="UCT Robotics" class="img-fluid" style="width:120px;height:80px;object-fit:contain;">
-                        <h5 class="m-0 fs-5">UCT Robotics</h5>
+                        <h5 class="m-0 fs-5">UCT ROBOTICS</h5>
                     </div>
                     <div class="mt-3">
-                        <p class="m-0 desc">Robotics &amp; Automation</p>
+                        <p class="m-0 entity-tagline">BUILD. CODE. INNOVATE.</p>
+                        <p class="m-0 desc">Turning Ideas Into Intelligent Innovations.</p>
                     </div>
                 </div>
             </a>

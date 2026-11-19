@@ -377,6 +377,32 @@ header .navbar .nav-link {
 	align-items: center;
 }
 
+.subsidiariesBtn,
+#zeynep a[data-submenu="mobile-subsidiaries"] {
+	animation: entities-attention 1.2s ease-in-out infinite;
+}
+
+@keyframes entities-attention {
+	0%,
+	100% {
+		color: #000;
+		opacity: 1;
+	}
+
+	50% {
+		color: #ff0000;
+		opacity: 0.55;
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.subsidiariesBtn,
+	#zeynep a[data-submenu="mobile-subsidiaries"] {
+		animation: none;
+		color: #ff0000;
+	}
+}
+
 header .navbar .nav-link:hover:before {
 	content: "";
 	position: absolute;
@@ -577,6 +603,13 @@ header .navbar-nav .dropdown .sub-menu li:hover .dropdown-item {
 	font-size: 12px;
 	font-weight: 600;
 	line-height: 1.2;
+}
+
+.subsidiaries-megamenu .entity-tagline {
+	color: #010273;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 1.3;
 }
 
 .new-megamenu-desktop .megamenu-grid {
