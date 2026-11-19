@@ -2,20 +2,20 @@
 <html lang="en">
 
 <head>
-  <title>Refund Policies- The IoT Academy</title>
+  <title>Refund &amp; Batch Change Policy - UCT &amp; The IoT Academy</title>
 
   <!-- Basic Meta Tags -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <meta name="description"
-    content="Kindly contact us at C-56/11, ground Floor, Near Stellar IT Park, Sector-62, Noida. Our Phone Number - 9354068856, 8287096558. Our Email - enquiry@theiotacademy.co" />
-  <link rel="canonical" href="http://localhost/TIA/refund-policies" />
+    content="Read the refund and batch change policy for UCT and The IoT Academy, including refund eligibility, batch transfers, and processing timelines." />
+  <link rel="canonical" href="https://www.theiotacademy.co/refund-policies" />
   <meta name="robots" content="index, follow" />
   <meta name="googlebot" content="index, follow" />
   <meta name="author" content="The IoT Academy, info@theiotacademy.co" />
   <meta name="owner" content="Kaushal" />
-  <meta name="url" content="http://localhost/TIA/" />
+  <meta name="url" content="https://www.theiotacademy.co/" />
   <meta name="category" content="Training/Education" />
   <meta name="coverage" content="Worldwide" />
   <meta name="distribution" content="Global" />
@@ -28,11 +28,11 @@
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="theiotacademy" />
-  <meta property="og:url" content="http://localhost/TIA/refund-policies" />
-  <meta property="og:title" content="Refund Policies- The IoT Academy" />
+  <meta property="og:url" content="https://www.theiotacademy.co/refund-policies" />
+  <meta property="og:title" content="Refund &amp; Batch Change Policy - UCT &amp; The IoT Academy" />
   <meta property="og:description"
-    content="Kindly contact us at C-56/11, ground Floor, Near Stellar IT Park, Sector-62, Noida. Our Phone Number - 9354068856, 8287096558. Our Email - enquiry@theiotacademy.co" />
-  <meta property="og:image" content="http://localhost/TIA/assets/dit/images/logo.webp" />
+    content="Read the refund and batch change policy for UCT and The IoT Academy, including refund eligibility, batch transfers, and processing timelines." />
+  <meta property="og:image" content="https://www.theiotacademy.co/assets/dit/images/logo.webp" />
   <meta property="og:image:type" content="image/webp" />
   <meta property="og:image:alt" content="The IoT Academy" />
   <meta property="og:ttl" content="345600" />
@@ -62,8 +62,8 @@
   <meta name="fb:page_id" content="426804161019130" />
 
   <!-- Icons -->
-  <link rel="icon" href="http://localhost/TIA/assets/images/favicon-32x32.webp" type="image/webp" sizes="32x32">
-  <link rel="apple-touch-icon" href="http://localhost/TIA/assets/images/favicon-32x32.webp" />
+  <link rel="icon" href="https://www.theiotacademy.co/assets/images/favicon-32x32.webp" type="image/webp" sizes="32x32">
+  <link rel="apple-touch-icon" href="https://www.theiotacademy.co/assets/images/favicon-32x32.webp" />
 
   <!-- Preconnect and DNS Prefetch -->
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
@@ -72,7 +72,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 
-  <link rel="preload" as="image" href="http://localhost/TIA/assets/dit/images/navbar/logo.svg"
+  <link rel="preload" as="image" href="https://www.theiotacademy.co/assets/dit/images/navbar/logo.svg"
     type="image/svg+xml" fetchpriority="high">
 
   <!--font family-->
@@ -90,7 +90,7 @@
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous"
     rel="stylesheet" media="print" onload="this.onload=null;this.media='all'">
   <!--custom css links-->
-  <link href="http://localhost/TIA/assets/dit/css/custom.css" rel="stylesheet">
+  <link href="https://www.theiotacademy.co/assets/dit/css/custom.css" rel="stylesheet">
   <!--page css links-->
   <link href="<?=asset_url()?>dit/css/refund-policies.css" rel="stylesheet" media="print"
     onload="this.onload=null;this.media='all'">
@@ -118,81 +118,59 @@
     <!-- <div class="container-fluid"> -->
     <!-- <h1 class="heading col-lg-6 mx-auto">Refund <span>Policies</span></h1> -->
     <img class="img-fluid d-none d-md-block object-fit-cover"
-      src="http://localhost/TIA/assets/dit/images/refund-banner.webp" />
+      src="https://www.theiotacademy.co/assets/dit/images/refund-banner.webp" />
     <img class="img-fluid d-block d-md-none object-fit-cover"
-      src="http://localhost/TIA/assets/dit/images/refund-banner-mobile.webp" />
+      src="https://www.theiotacademy.co/assets/dit/images/refund-banner-mobile.webp" />
     <!-- </div> -->
   </section>
   <section class="center-part">
     <div class="container-fluid">
-      <h1 class="heading-main">Refund Policy</h1>
-      <p>Thanks for creating a relationship with The IoT Academy Learning fraternity. We believe in long term
-        relationships. We wish to ensure a great experience with our learning ecosystem, resulting in good career growth
-        for you. For any purchase from our online portal, we have below terms and conditions for defining our Refund
-        Policy. When you purchase any course through The IoT Academy online portal, you agree to our <strong>Privacy and
-          Terms of use policy</strong>. Additional details are given below. </p>
-      <p><strong>* REFUND POLICY: INSTRUCTOR BASED ONLINE CLASSROOM LEARNING</strong>:</p>
-      <h2 class="heading-main2">Corporate/ Third Party Training</h2>
-      <p>Refund can only be processed if denial of promised service delivery is done from The IoT Academy side.</p>
-      <p>Any productive time cost serving to the customer will be deducted from the Refund amount.</p>
-      <p>In case of postponing of training session by customer, Any productive time cost serving to the customer will be
-        deducted from the Refund amount.</p>
-      <h2 class="heading-main2">No Refund is entertained if</h2>
-      <ol>
-        <li> Denial of services come from customer side due to any reason</li>
-        <li> Customer changes some delivery plan due to any reason</li>
-        <li>Customer perform some unethical unprofessional behavior e.g. taking training and contents from The IoT
-          Academy and start delivering the sessions by him/herself or through some other third party breaching the
-          contractual agreement.</li>
-        <li>Customer is not clear what to receive and changing the delivery goals time to time</li>
-        <li>There is no fault from The IoT Academy in any delivery</li>
-        <li>Training not scheduled or cancelled by customer completely due to any reason</li>
+      <h1 class="heading-main">Refund &amp; Batch Change Policy</h1>
+      <p><strong>UCT &amp; The IoT Academy</strong></p>
+
+      <h2 class="heading-main2">1. No Refund Scenarios</h2>
+      <p>After taking Admission for any Program once the Batch is launched, the fee paid shall be non-refundable after
+        7 days of cooling off time from batch launch date / if two live lectures have been attended (whichever is
+        earlier).</p>
+
+      <h2 class="heading-main2">2. Pre-Commencement Cancellation</h2>
+      <p>Any refund request received within the deadline will be considered along with the following parameters:</p>
+      <ol type="A">
+        <li>GST is non refundable.</li>
+        <li>Any Platform Charge / Convenience Fees are Non-Refundable.</li>
+        <li>The Subvention Fee charged by the Loan partners are Non-Refundable.</li>
+        <li>There would be a deduction of Operational Cost up to 20%.</li>
       </ol>
-      <h3 class="heading-main2">Long Duration (10/6 months online training) : Professional Program in DS, ML, AI & GenAI
-        &
-        Advanced Program in DA & GenAI with E&ICT Academy, IITR </h3>
-      <p>Due to any force-majeure events (Natural calamity, Political turmoil etc) or Instructor's sudden unavailability
-        due to unforeseen situation e.g. sickness or family emergency, The IoT Academy reserves the right to
-        postpone/cancel any scheduled course. In Cancellation case, learners will be given the option to join the next
-        upcoming batches.</p>
-      <p>We understand similar conditions may occur at the learner side as well. So in such cases, where any unforeseen
-        situation arises at the learner's side, we try to adjust the learner's schedule in upcoming batches and the
-        learner should agree to opt for this option.</p>
-      <h3 class="heading-main2">Refund Policy Guidelines:</h3>
-      <p>The slot booking charge is Non-refundable in any case. That includes Application Process Fee and other
-        logistics charges. The GST on paid amount is non-refundable.</p>
-      <p>In case a candidate opts for a refund after the program has started or after the seat being allocated and, in
-        various cases refund policies guidelines are below</p>
-      <ol>
-        <!-- <li> In case if the candidate initiated the refund process within 3 months, then 1/3rd of the entire allotted fee, GST being deducted, will get refunded to the candidate. </li> <li> In case the candidate initiated the refund process within 6 months, 2/3rd of the entire allotted fee, GST being deducted, will get refunded to the candidate. </li> -->
-        <li>In case if the candidate initiated the refund process within 3 months, then 1/3rd of the balance fee (After
-          deducting Seat Booking Charge) + whole GST will be deducted, and rest amount will be refunded to the
-          candidate.</li>
-        <li>In case the candidate initiated the refund process within 6 months, 2/3rd of the balance fee (After
-          deducting Seat Booking Charge) + whole GST will be deducted, and rest amount will be refunded to the
-          candidate.</li>
-        <li>In case the candidate initiated the refund process after 6 months, or after certification allotment, the
-          case will not come under the refundable category and will not be rewarded with the refund.</li>
-        <li> In case the candidate opts for a refund before the start of the program, slot booking amount and 1st EMI as
-          processing charges will be deducted for No Cost EMI payment method. </li>
+
+      <h2 class="heading-main2">3. Batch Transfer in lieu of Refund</h2>
+      <p>Subject to approval, learners may request a one-time batch transfer instead of cancellation or refund.</p>
+
+      <h2 class="heading-main2">4. Company-Initiated Cancellation</h2>
+      <p>In case the company cancels a program without offering a suitable alternative within 15 days from the
+        pre-scheduled date of commencement, the learner shall be eligible for a full refund.</p>
+
+      <h2 class="heading-main2">5. No Refund for Non-Participation</h2>
+      <p>Absence, discontinuation, personal reasons, change of career plans or failure to attend classes shall not
+        ordinarily qualify for a refund.</p>
+
+      <h2 class="heading-main2">6. Refund Processing</h2>
+      <p>Approved refunds shall be processed through the original payment mode within 15 working days.</p>
+
+      <h2 class="heading-main2">7. Batch Change Policy</h2>
+      <p>Before the batch is launched and due to any genuine reason, any participant submits a request for Batch
+        Change, there will not be any charge for Batch Change. Post that a small amount will be claimed by the
+        Institute to partially cover the seat loss.</p>
+      <ol type="i">
+        <li>For E&amp;ICT Programs, there would be a Cost equal to one fourth of the offered Fee for any Program opted
+          by the learner.</li>
+        <li>For In-House Programs, there would be a Cost of INR 6,000/- irrespective of program.</li>
       </ol>
-      <p><strong>Note: </strong>All refunds will be processed within 21 working days of verifying all supporting
-        documents with valid cause and refund requests have been accepted by The IoT Academy. Slot Booking is not
-        refundable if the candidate decides to cancel the slot.</p>
-      <p>* REFUND POLICY: SELF PACED LEARNING</p>
-      <p><strong>No refund</strong> is entertained if Enrollment was done for Self-paced courses.</p>
-      <p><strong>LEGAL POLICY:</strong> Legal Action (with Penalties) will be taken if</p>
-      <ol>
-        <li> Any untoward activities have been observed. </li>
-        <li> Course has been shared with others / multiple users. </li>
-        <li> Course purchase is done to copy the material/ Content. </li>
-      </ol>
-      <p><strong>* Disclaimer –</strong>Any dispute, difference, or question which may at any time arise between the
-        parties hereto or any person claiming under them, touching or arising out of or in respect of this agreement or
-        the subject matter thereof shall be referred to sole Arbitrator by the first party , the decision passed by the
-        arbitrator shall be final and binding on the parties hereto. The Venue of Arbitration will be Noida (Uttar
-        Pradesh). All and any disputes shall be subject to the Jurisdiction of Courts of Noida (Uttar Pradesh), India.
-      </p>
+      <p><strong>Taxes are applicable.</strong></p>
+
+      <h2 class="heading-main2">8. Important Note</h2>
+      <p>All refund requests must be submitted in writing to the company's authorized support team.</p>
+
+      <p>Approved by<br><strong>The Management Team<br>UniConverge Technologies<br>The IoT Academy</strong></p>
     </div>
   </section>
 
@@ -210,7 +188,7 @@
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
   <!--custom js-->
-  <script defer src="http://localhost/TIA/assets/dit/js/custom1.js"></script>
+  <script defer src="https://www.theiotacademy.co/assets/dit/js/custom1.js"></script>
   <!--swiper js-->
   <script defer src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
   <script defer>
