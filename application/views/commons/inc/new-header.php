@@ -467,8 +467,7 @@
                     <li class="nav-item">
                         <!--<a href="http://localhost/TIA/industrial-summer-training-programs"-->
                         <a href="http://localhost/TIA/industrial-winter-training-programs"
-                            class="nav-link">Industrial Winter Training Programs<span
-                                class="new_blink_icon_style">New</span></a>
+                            class="nav-link">Industrial Winter Training Programs</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a href="http://localhost/TIA/startup-seed-fund-program" class="nav-link">Seed
