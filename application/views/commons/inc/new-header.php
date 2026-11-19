@@ -516,12 +516,15 @@
                 class="text-decoration-none text-black">
                 <div class="megamenu-card position-relative">
                     <div class="d-flex align-items-center gap-3">
-                        <img loading="lazy" src="<?php echo base_url(); ?>assets/dit/images/navbar/nav-iot.webp"
+                        <img loading="lazy" src="https://uniconvergetech.in/_next/image?url=%2Fheader%2Flogo.webp&amp;w=256&amp;q=75"
                             alt="UniConverge Technologies" class="img-fluid" style="width:120px;height:80px;object-fit:contain;">
                         <h5 class="m-0 fs-5">UniConverge Technologies</h5>
                     </div>
                     <div class="mt-3">
                         <p class="m-0 desc">Technology Solutions</p>
+                    </div>
+                    <div class="entity-badge">
+                        <span>Parent Company</span>
                     </div>
                 </div>
             </a>
@@ -529,7 +532,7 @@
                 class="text-decoration-none text-black">
                 <div class="megamenu-card position-relative">
                     <div class="d-flex align-items-center gap-3">
-                        <img loading="lazy" src="<?php echo base_url(); ?>assets/dit/images/navbar/upskill.webp"
+                        <img loading="lazy" src="https://www.upskillcampus.com/assets/dit/img/logo.svg"
                             alt="upSkill Campus" class="img-fluid" style="width:120px;height:80px;object-fit:contain;">
                         <h5 class="m-0 fs-5">upSkill Campus</h5>
                     </div>
@@ -542,7 +545,7 @@
                 class="text-decoration-none text-black">
                 <div class="megamenu-card position-relative">
                     <div class="d-flex align-items-center gap-3">
-                        <img loading="lazy" src="<?php echo base_url(); ?>assets/dit/images/navbar/nav-iot.webp"
+                        <img loading="lazy" src="https://www.uctconsulting.com/dist/assets/images/header_logo.png"
                             alt="UCT Consulting" class="img-fluid" style="width:120px;height:80px;object-fit:contain;">
                         <h5 class="m-0 fs-5">UCT Consulting</h5>
                     </div>
@@ -555,7 +558,7 @@
                 class="text-decoration-none text-black">
                 <div class="megamenu-card position-relative">
                     <div class="d-flex align-items-center gap-3">
-                        <img loading="lazy" src="<?php echo base_url(); ?>assets/dit/images/navbar/nav-iit.webp"
+                        <img loading="lazy" src="https://uctrobotics.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuctrobotics.2qko4k777280n.png&amp;w=2048&amp;q=75"
                             alt="UCT Robotics" class="img-fluid" style="width:120px;height:80px;object-fit:contain;">
                         <h5 class="m-0 fs-5">UCT Robotics</h5>
                     </div>
